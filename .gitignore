@@ -9,6 +9,8 @@
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
+firebaseConfig.js
+firebase-debug.log
 
 ### Flask ###
 instance/*
